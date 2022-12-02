@@ -1,5 +1,5 @@
 const settings = {
-  "name": "my-first-frontity-project",
+  "name": "my-app",
   "state": {
     "frontity": {
       "url": "https://test.frontity.org",

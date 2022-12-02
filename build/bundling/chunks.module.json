@@ -1,12 +1,12 @@
 {
   "errors": [],
   "warnings": [],
-  "hash": "3809205b656e1aa73ab0",
+  "hash": "8b021bdefe1862efaa2b",
   "publicPath": "",
   "outputPath": "/home/ubuntu/Documents/staging-fastsole/staging-fastsole/30NOvFASTSOLE/newfrontity/build/static",
   "assetsByChunkName": {
     "list": "list.module.js",
-    "my-first-frontity-project": "my-first-frontity-project.module.js"
+    "my-app": "my-app.module.js"
   },
   "assets": [
     {
@@ -22,13 +22,13 @@
       "emitted": false
     },
     {
-      "name": "my-first-frontity-project.module.js",
-      "size": 6952997,
+      "name": "my-app.module.js",
+      "size": 6953263,
       "chunks": [
-        "my-first-frontity-project"
+        "my-app"
       ],
       "chunkNames": [
-        "my-first-frontity-project"
+        "my-app"
       ],
       "info": {},
       "emitted": false
@@ -36,12 +36,12 @@
   ],
   "filteredAssets": 0,
   "namedChunkGroups": {
-    "my-first-frontity-project": {
+    "my-app": {
       "chunks": [
-        "my-first-frontity-project"
+        "my-app"
       ],
       "assets": [
-        "my-first-frontity-project.module.js"
+        "my-app.module.js"
       ],
       "children": {},
       "childAssets": {}
@@ -66,9 +66,9 @@
       ]
     },
     {
-      "id": "my-first-frontity-project",
+      "id": "my-app",
       "files": [
-        "my-first-frontity-project.module.js"
+        "my-app.module.js"
       ]
     }
   ]
