@@ -3146,7 +3146,7 @@ from2@^2.1.0:
     inherits "^2.0.1"
     readable-stream "^2.0.0"
 
-frontity@^1.14.2, frontity@^1.14.3, frontity@^1.15.0, frontity@^1.17.0, frontity@^1.17.1, frontity@^1.17.2:
+frontity@^1.14.2, frontity@^1.14.3, frontity@^1.15.0, frontity@^1.17.0, frontity@^1.17.1, frontity@^1.5.2:
   version "1.17.2"
   resolved "https://registry.yarnpkg.com/frontity/-/frontity-1.17.2.tgz#60c96ea5d6a4b6be6f9573aef5fd67e773763cfc"
   integrity sha512-BrFg5AFz/eMFAmWkxVGNyWQzLU+UNUtkKxFAPTqAoVF5V9s6gkIC1rzpLrP7ELPtWphB1gGgEP3P836Je7U8Yg==
